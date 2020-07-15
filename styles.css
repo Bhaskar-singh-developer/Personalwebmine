@@ -1,0 +1,86 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+h2{
+  color: #66BFBF;
+  font-family: sans-serif;
+}
+.container-1-for-headers{
+  width: 100%;
+  height: 50px;
+  background-color: grey;
+}
+.img-hh{
+  margin: 0 0 10px 0;
+}
+.digital-bhaskaer{
+  float: left;
+  margin: 15px 0 0 0;
+}
+.home-headers{
+  float: left;
+  margin: 15px 0 0 0;
+}
+.top-headers{
+  float: left;
+  margin: 15px 0 0 0;
+}
+.Blogs-headers{
+  float: left;
+  margin: 15px 0 0 0;
+}
+.education-headers{
+  float: left;
+  margin: 15px 0 0 0;
+}
+.tranding-headers{
+  float: left;
+  margin: 15px 0 0 0;
+}
+.sports-headers{
+  /* float: left; */
+  /* margin: 15px 0 0 0; */
+}
+.home-href{
+  text-decoration: none;
+  color: #EAF6F6;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 20px 20px 0 20px;
+}
+.top-href{
+  text-decoration: none;
+  color: #EAF6F6;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 20px 20px 0 20px;
+}
+.tranding-href{
+  text-decoration: none;
+  color: #EAF6F6;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 20px 20px 0 20px;
+}
+.Blogs-href{
+  text-decoration: none;
+  color: #EAF6F6;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 20px 20px 0 20px;
+}
+.education-href{
+  text-decoration: none;
+  color: #EAF6F6;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 20px 20px 0 20px;
+}
+.sports-href{
+  text-decoration: none;
+  color: #EAF6F6;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 20px 20px 0 20px;
+}
